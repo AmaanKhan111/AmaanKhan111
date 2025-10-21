@@ -27,6 +27,15 @@
 | 🧰 **Other Skills** | Financial Modeling, Dashboard Design, Forecasting |
 
 ---
+### 🚀 Projects  
+
+#### 💼 **Financial Health Scoring System for SMEs**
+- 📊 Developed a data-driven model to evaluate the **financial stability and risk levels** of Small and Medium Enterprises (SMEs).  
+- ⚙️ Used **Python (Pandas, Scikit-learn)** for financial ratio analysis and scoring model creation.  
+- 📈 Integrated **Power BI dashboards** to visualize firm health categories (Healthy, At Risk, Critical).  
+- 🎯 Objective: Help lenders and investors assess SME creditworthiness through **data-backed insights**.  
+
+---
 
 ### 📈 GitHub Stats  
 ![Amaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmaanKhan111&show_icons=true&theme=radical)  
